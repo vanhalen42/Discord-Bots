@@ -26,6 +26,9 @@ async def on_ready():
 # add links or messages according to your convinience
 spam_list = [
     "https://tenor.com/view/linux-chad-arch-arch-linux-chad-user-gif-21904978",
+	"https://tenor.com/view/nolstalgia-critic-linux-users-linus-user-school-school-technology-survey-gif-18884106",
+	"https://tenor.com/view/linux-you-proprietary-bitch-proprietary-open-source-foss-gif-21858113",
+	"https://tenor.com/view/linux-arch-linux-thanos-linux-user-gif-20727042",
 ]
 
 
