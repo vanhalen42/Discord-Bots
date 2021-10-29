@@ -4,6 +4,7 @@ import discord
 from discord import message
 from discord import embeds
 import os
+import random
 from dotenv import load_dotenv
 load_dotenv()
 
@@ -21,7 +22,7 @@ async def on_ready():
     # output_channel object holds the info of that channel, whos id is provided
     output_channel = client.get_channel(out_channel)
     # code to send message is
-    await output_channel.send("I art been summoneth.")
+    # await output_channel.send("I art been summoneth.")
 
 
 @client.event
@@ -40,7 +41,11 @@ async def on_message(message):
                 "\n" + mssg[1] + "\n" + mssg[1] + \
                 "\n" + mssg[1] + "\n" + mssg[1]
             # print(str)
-            await output_channel.send(str)
+            var=random.randint(0, 9)
+            if var == 5 or var ==7:
+                await output_channel.send(str)
+            else:
+                await output_channel.send("Go do osn noobde.")
 
 # Run the client on this server
 client.run(os.getenv('BOT_TOKEN')) # add a bot token

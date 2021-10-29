@@ -24,10 +24,8 @@ async def on_ready():
     # code to send message is
     await output_channel.send("I use Arch btw.")
 # add links or messages according to your convinience
-spam_list = [
-    "https://tenor.com/view/linux-chad-arch-arch-linux-chad-user-gif-21904978",
-]
-
+spam_list = []
+anime_list=[]
 
 @client.event
 async def on_message(message):
