@@ -1,0 +1,28 @@
+spam_list=[
+    "https://tenor.com/view/linux-chad-arch-arch-linux-chad-user-gif-21904978",
+    "https://tenor.com/view/i-use-arch-btw-use-arch-linux-fedora-gif-23272370",
+    "https://tenor.com/view/linux-meme-joke-arch-linux-gif-22308196",
+    "https://tenor.com/view/linux-arch-linux-thanos-linux-user-gif-20727042",
+    "https://tenor.com/view/arch-linux-guys-i-use-arch-gif-21580729",
+    "https://scontent.fhyd16-1.fna.fbcdn.net/v/t1.6435-9/109618601_1759578370849589_736435313539592753_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=730e14&_nc_ohc=cqOnCWXfQ9wAX9qz6PA&_nc_ht=scontent.fhyd16-1.fna&oh=1b032db1dcea6978459b5316641742f1&oe=6194CD85",
+    "https://i.kym-cdn.com/photos/images/original/001/258/245/48f.png",
+    "https://wiki.archlinux.org/title/installation_guide",
+    "https://www.youtube.com/watch?v=O2ir7V7lUzo",
+    "https://img.devrant.com/devrant/rant/r_1301568_42G12.jpg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcSm11wZ0QAq_4O-5rVaaqxYGppu0IzcFNkw&usqp=CAU",
+    "https://www.linuxandubuntu.com/home/how-to-setup-a-wifi-in-arch-linux-using-terminal",
+    "https://www.linuxquestions.org/questions/blog/donatom-638772/how-i-got-my-microphone-to-work-in-arch-linux-and-how-you-can-save-time-and-frustration-36753/",
+    "https://i.redd.it/qxsttm8sg5k11.png",
+    "https://images-cdn.9gag.com/photo/a3wNq6r_700b.jpg",
+    "https://i.pinimg.com/originals/58/8c/d3/588cd3c50dc1b79ad171f9c9a8e5bb18.jpg",
+    "https://pics.me.me/fujitsu-computers-siemens-arch-linux-advanced-options-for-arch-linux-35793347.png",
+    "https://meme.ucoz.net/_nw/4/29331059.jpg",
+    "https://bbs.archlinux.org/viewtopic.php?id=242229",
+    "https://bbs.archlinux.org/viewtopic.php?id=4901",
+    "https://pbs.twimg.com/media/EdthTY9UMAArasR?format=jpg&name=900x900",
+    "you don't use arch? :funwa:",
+    "https://pics.me.me/have-had-arch-linux-installed-for-a-week-no-gain-4665719.png,"
+]
+anime_list=[
+    "https://pics.me.me/woah-onee-chan-you-dont-use-windows-or-mac-archlinux-59999154.png",
+]
